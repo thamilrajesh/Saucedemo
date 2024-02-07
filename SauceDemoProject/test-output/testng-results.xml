@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-07T21:55:23 AEDT" name="Default suite" finished-at="2024-02-07T21:55:25 AEDT" duration-ms="2448">
+    <groups>
+    </groups>
+    <test started-at="2024-02-07T21:55:23 AEDT" name="Default test" finished-at="2024-02-07T21:55:25 AEDT" duration-ms="2448">
+      <class name="automationProject1.SortByOrder">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:automationProject1.SortByOrder@7188af83]" started-at="2024-02-07T21:55:23 AEDT" name="launchBrowser" finished-at="2024-02-07T21:55:25 AEDT" duration-ms="1762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="sortoption()[pri:1, instance:automationProject1.SortByOrder@7188af83]" started-at="2024-02-07T21:55:25 AEDT" name="sortoption" finished-at="2024-02-07T21:55:25 AEDT" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortoption -->
+        <test-method signature="sortbyAtoZ()[pri:2, instance:automationProject1.SortByOrder@7188af83]" started-at="2024-02-07T21:55:25 AEDT" name="sortbyAtoZ" finished-at="2024-02-07T21:55:25 AEDT" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortbyAtoZ -->
+        <test-method signature="sortbyZtoA()[pri:3, instance:automationProject1.SortByOrder@7188af83]" started-at="2024-02-07T21:55:25 AEDT" name="sortbyZtoA" finished-at="2024-02-07T21:55:25 AEDT" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortbyZtoA -->
+        <test-method signature="sortbyLowtoHigh()[pri:4, instance:automationProject1.SortByOrder@7188af83]" started-at="2024-02-07T21:55:25 AEDT" name="sortbyLowtoHigh" finished-at="2024-02-07T21:55:25 AEDT" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortbyLowtoHigh -->
+        <test-method signature="sortbyHightoLow()[pri:5, instance:automationProject1.SortByOrder@7188af83]" started-at="2024-02-07T21:55:25 AEDT" name="sortbyHightoLow" finished-at="2024-02-07T21:55:25 AEDT" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortbyHightoLow -->
+        <test-method is-config="true" signature="closingbrowser()[pri:0, instance:automationProject1.SortByOrder@7188af83]" started-at="2024-02-07T21:55:25 AEDT" name="closingbrowser" finished-at="2024-02-07T21:55:25 AEDT" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingbrowser -->
+      </class> <!-- automationProject1.SortByOrder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
